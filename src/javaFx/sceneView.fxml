@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.ToggleButton?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane focusTraversable="true" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="1000.0" prefWidth="960.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="javaFx.MainController">
+   <children>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#2b2c2f" height="118.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="960.0" />
+      <Label alignment="CENTER" prefHeight="86.0" prefWidth="960.0" text="SORTIFY CONTROL PANEL" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="73.0" />
+         </font>
+      </Label>
+      <Slider fx:id="slider1" blockIncrement="1.0" layoutX="41.0" layoutY="534.0" majorTickUnit="0.1" max="1.0" minorTickCount="4" prefHeight="72.0" prefWidth="878.0" showTickLabels="true" showTickMarks="true" snapToTicks="true" />
+      <Slider fx:id="slider2" blockIncrement="1.0" layoutX="41.0" layoutY="606.0" majorTickUnit="0.1" max="1.0" minorTickCount="4" prefHeight="72.0" prefWidth="878.0" showTickLabels="true" showTickMarks="true" />
+      <Slider fx:id="slider3" blockIncrement="1.0" layoutX="41.0" layoutY="678.0" majorTickUnit="0.1" max="1.0" minorTickCount="4" prefHeight="72.0" prefWidth="878.0" showTickLabels="true" showTickMarks="true" />
+      <Slider fx:id="slider4" blockIncrement="1.0" layoutX="41.0" layoutY="750.0" majorTickUnit="0.1" max="1.0" minorTickCount="4" prefHeight="72.0" prefWidth="878.0" showTickLabels="true" showTickMarks="true" />
+      <Slider fx:id="slider5" blockIncrement="1.0" layoutX="41.0" layoutY="822.0" majorTickUnit="0.1" max="1.0" minorTickCount="4" prefHeight="72.0" prefWidth="878.0" showTickLabels="true" showTickMarks="true" />
+      <Slider fx:id="slider6" blockIncrement="1.0" layoutX="41.0" layoutY="894.0" majorTickUnit="0.1" max="1.0" minorTickCount="4" prefHeight="72.0" prefWidth="878.0" showTickLabels="true" showTickMarks="true" />
+      <ToggleButton layoutX="60.0" layoutY="164.0" mnemonicParsing="false" prefHeight="72.0" prefWidth="256.0" text="Manual">
+         <font>
+            <Font size="31.0" />
+         </font>
+      </ToggleButton>
+      <ToggleButton layoutX="60.0" layoutY="294.0" mnemonicParsing="false" prefHeight="72.0" prefWidth="256.0" text="Automat">
+         <font>
+            <Font size="31.0" />
+         </font>
+      </ToggleButton>
+      <ToggleButton layoutX="60.0" layoutY="428.0" mnemonicParsing="false" prefHeight="72.0" prefWidth="256.0" text="Debug">
+         <font>
+            <Font size="31.0" />
+         </font>
+      </ToggleButton>
+      <TextArea layoutX="430.0" layoutY="196.0" prefHeight="298.0" prefWidth="468.0" />
+      <Text fill="WHITE" layoutX="430.0" layoutY="190.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Telemetrie:" wrappingWidth="202.13671875">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>

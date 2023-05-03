@@ -4,16 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3bd602e-5af1-4d3f-9ab5-cdffd3986403" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c3bd602e-5af1-4d3f-9ab5-cdffd3986403" name="Changes" comment="opencv on">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/API_Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ColorDetectionCV/ColorConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ColorDetectionCV/OpenCv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ColorDetectionCV/WebcamColorDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaFx/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaFx/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaFx/UtilsFx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaFx/sceneTheme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaFx/sceneView.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortifyBot-Dashboard.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SortifyBot-Dashboard.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OpenCv.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,26 +44,71 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Tudor/Documents/opencv/build/java/x64/opencv_java470.dll",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pathVariables"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Tudor/Desktop/SortifyBot-Dashboard&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tudor\Desktop\SortifyBot-Dashboard" />
+      <recent name="C:\Users\Tudor\Desktop\SortifyBot-Dashboard\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tudor\Desktop\SortifyBot-Dashboard\src\javaFx" />
+      <recent name="C:\Users\Tudor\Desktop\SortifyBot-Dashboard\src\utilsFx" />
+      <recent name="C:\Users\Tudor\Desktop\SortifyBot-Dashboard\src" />
+      <recent name="C:\Users\Tudor\Desktop\SortifyBot-Dashboard" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainApplication">
     <configuration name="Main" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="MAIN_CLASS_NAME" value="javaFx.ObjectColorDetector" />
       <module name="SortifyBot-Dashboard" />
       <option name="VM_PARAMETERS" value="--module-path &quot;$JavaFx19$&quot; --add-modules javafx.controls,javafx.fxml" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaFx.MainApplication" />
+      <module name="SortifyBot-Dashboard" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;$JavaFx19$&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaFx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebcamColorDetection" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ColorDetectionCV.WebcamColorDetector" />
+      <module name="SortifyBot-Dashboard" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;$JavaFx19$&quot; --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.WebcamColorDetection" />
+      <item itemvalue="Application.MainApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -57,6 +119,23 @@
       <option name="presentableId" value="Default" />
       <updated>1681788952848</updated>
     </task>
+    <task id="LOCAL-00001" summary="opencv on">
+      <created>1681790536422</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681790536423</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="opencv on" />
+    <option name="LAST_COMMIT_MESSAGE" value="opencv on" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SortifyBot_Dashboard$MainApplication.ic" NAME="MainApplication Coverage Results" MODIFIED="1681807806125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>javaFx.*</FILTER>
+    </SUITE>
   </component>
 </project>
