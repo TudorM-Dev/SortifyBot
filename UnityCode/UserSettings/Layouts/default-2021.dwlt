@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 16
+  controlID: 62
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 17
+  controlID: 63
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 18
+  controlID: 64
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -422,14 +422,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scripts
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Projects\Unity\Robot Simulator
+  m_LastProjectPath: C:\Users\Tudor\Desktop\SortifyBot-Repository\UnityCode
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d2650000
-    m_LastClickedID: 26066
-    m_ExpandedIDs: 00000000d065000000ca9a3b
+    m_SelectedIDs: 8e660000
+    m_LastClickedID: 26254
+    m_ExpandedIDs: 00000000ca65000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -585,8 +585,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: dc590000
-      m_LastClickedID: 23004
+      m_SelectedIDs: 86110000
+      m_LastClickedID: 0
       m_ExpandedIDs: 32fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -666,7 +666,7 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: 0, y: 26}
+      snapOffset: {x: 242, y: 0}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: unity-transform-toolbar
@@ -836,9 +836,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: -4.575796, z: 18.444021}
+    m_Target: {x: 0.01515808, y: 0.38411832, z: 0.047275007}
     speed: 2
-    m_Value: {x: 0, y: -4.575796, z: 18.444021}
+    m_Value: {x: 0.01515808, y: 0.38411832, z: 0.047275007}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -885,13 +885,13 @@ MonoBehaviour:
     m_GridAxis: 0
     m_gridOpacity: 0.041
   m_Rotation:
-    m_Target: {x: 0.12999801, y: 0, z: 0, w: 0.9915143}
+    m_Target: {x: 0.24350415, y: -0.013093178, z: 0.003287515, w: 0.96980613}
     speed: 2
-    m_Value: {x: 0.12999801, y: 0, z: 0, w: 0.9915143}
+    m_Value: {x: 0.24349892, y: -0.0145478705, z: 0.0036527668, w: 0.9697853}
   m_Size:
-    m_Target: 10
+    m_Target: 0.5172739
     speed: 2
-    m_Value: 10
+    m_Value: 0.5172739
   m_Ortho:
     m_Target: 0
     speed: 2
