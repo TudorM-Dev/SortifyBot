@@ -1,4 +1,4 @@
-package sortifybot.controlpanel;
+package home;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -7,26 +7,27 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 import javafx.stage.StageStyle;
 
-import java.util.Objects;
+public class Main extends Application {
+    private double x, y;
 
-public class MainApp extends Application {
-    double x,y = 0;
     @Override
-    public void start(Stage primaryStage) throws Exception{
-        Parent parent  =  FXMLLoader.load(getClass().getResource("load.fxml"));
+    public void start(Stage primaryStage) throws Exception {
+        Parent root = FXMLLoader.load(getClass().getResource("Home.fxml"));
+        primaryStage.setScene(new Scene(root));
+        //set stage borderless
         primaryStage.initStyle(StageStyle.UNDECORATED);
 
-        parent .setOnMousePressed(event -> {
+        //drag it here
+        root.setOnMousePressed(event -> {
             x = event.getSceneX();
             y = event.getSceneY();
         });
+        root.setOnMouseDragged(event -> {
 
-        parent .setOnMouseDragged(event -> {
             primaryStage.setX(event.getScreenX() - x);
             primaryStage.setY(event.getScreenY() - y);
-        });
 
-        primaryStage.setScene(new Scene(parent , 700, 400));
+        });
         primaryStage.show();
     }
 
