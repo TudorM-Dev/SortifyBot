@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbce8d96-3133-4ddd-b715-70560e91e26d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/sc.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/sc2.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/home/Controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/home/Home.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/home/HomeOld.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/home/Item.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/home/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/home/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/images/icons8_Box_32px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/images/icons8_GPS_Antenna_64px_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/images/icons8_Home_32px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/images/icons8_Meanpath_64px_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/images/icons8_Open_Envelope_32px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/images/icons8_Person_32px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/images/icons8_Search_52px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/images/icons8_Sign_Out_32px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/images/icons8_Slider__32px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/images/icons8_Xbox_Menu_32px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/images/jimmy-fallon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/jimmy-fallon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,16 +20,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Tudor/Desktop/RestaurantMgtSampleUI",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Tudor/Desktop/RestaurantMgtSampleUI&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="home.Main" />
