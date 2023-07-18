@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbce8d96-3133-4ddd-b715-70560e91e26d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/sc.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/sc2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/home/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/home/Home.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/home/HomeOld.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/home/Item.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/home/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/home/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/images/icons8_Box_32px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/images/icons8_GPS_Antenna_64px_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/images/icons8_Home_32px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/images/icons8_Meanpath_64px_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/images/icons8_Open_Envelope_32px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/images/icons8_Person_32px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/images/icons8_Search_52px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/images/icons8_Sign_Out_32px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/images/icons8_Slider__32px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/images/icons8_Xbox_Menu_32px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RestaurantMgtSampleUI/images/jimmy-fallon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/jimmy-fallon.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2SkVka0cDc3TJfiu9odpOgU9vMw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Tudor/Desktop/RestaurantMgtSampleUI",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="home.Main" />
+      <module name="ControlPanelCode" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;$JavaFx19$&quot; --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbce8d96-3133-4ddd-b715-70560e91e26d" name="Changes" comment="" />
+      <created>1689690711311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689690711311</updated>
+    </task>
+    <servers />
+  </component>
+</project>

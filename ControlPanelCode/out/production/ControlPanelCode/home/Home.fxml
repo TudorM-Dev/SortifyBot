@@ -140,7 +140,7 @@
                      </font>
                   </Label>
                   <TextField fx:id="baseAngleValue" alignment="CENTER" layoutX="697.0" layoutY="174.0" onAction="#handleInput" prefHeight="25.0" prefWidth="63.0" stylesheets="@style.css" />
-                  <Slider fx:id="heightSlider" layoutX="130.0" layoutY="204.0" majorTickUnit="10.0" minorTickCount="5" prefHeight="35.0" prefWidth="531.0" showTickLabels="true" showTickMarks="true" snapToTicks="true" stylesheets="@style.css" />
+                  <Slider fx:id="heightSlider" layoutX="130.0" layoutY="204.0" majorTickUnit="10.0" minorTickCount="5" prefHeight="35.0" prefWidth="531.0" showTickLabels="true" showTickMarks="true" snapToTicks="true" stylesheets="@style.css" value="50.0" />
                   <Label layoutX="41.0" layoutY="204.0" prefHeight="35.0" prefWidth="85.0" text="Height lvl." textFill="WHITE">
                      <font>
                         <Font name="System Bold" size="15.0" />
@@ -161,7 +161,7 @@
                      </font>
                   </Label>
                   <TextField fx:id="wristAngleValue" alignment="CENTER" layoutX="697.0" layoutY="279.0" onAction="#handleInput" prefHeight="25.0" prefWidth="63.0" stylesheets="@style.css" />
-                  <Slider fx:id="clawSlider" layoutX="130.0" layoutY="309.0" majorTickUnit="5.0" minorTickCount="1" prefHeight="35.0" prefWidth="531.0" showTickLabels="true" showTickMarks="true" snapToTicks="true" stylesheets="@style.css" />
+                  <Slider fx:id="clawSlider" layoutX="130.0" layoutY="309.0" majorTickUnit="5.0" minorTickCount="1" prefHeight="35.0" prefWidth="531.0" showTickLabels="true" showTickMarks="true" snapToTicks="true" stylesheets="@style.css" value="50.0" />
                   <Label layoutX="41.0" layoutY="309.0" prefHeight="35.0" prefWidth="85.0" text="Claw lvl." textFill="WHITE">
                      <font>
                         <Font name="System Bold" size="15.0" />
