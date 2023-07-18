@@ -11,6 +11,7 @@ Sortify este un braț de tip SCARA, autonom, creat pentru asistența sau înlocu
 
 ![image](https://github.com/TudorM-Dev/SortifyBot/assets/102438155/60762a57-f817-4f64-8469-d8def95670a2)
 
+
 # Tehnologii
 Robotul folosește un Arduino UNO R3 de care este atașat un CNC Shield și 4 steppere NEMA 17(pentru acționarea ghearei se mai folosește un motor servo). Folosim curele cu un raport de transmisie, astfel generând mai mult cuplu pentru a reduce tensiunea depusă pe braț, iar pentru a acționa vertical robotul folosim o tija înfiletată pentru precizie.
 Pe partea de software, aceasta constă într-un panou de control, unde utilizatorul poate folosi modul MANUAL pentru a seta anumite date ale robotului (de exemplu poziția containerului unde sa fie PET-ul reciclat sau poziția obiectului care trebuie gravat), iar în cazul modului AUTOMAT inteligența artificială este folosită pentru identificarea PET-ului.
