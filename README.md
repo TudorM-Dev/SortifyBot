@@ -1,5 +1,6 @@
 # SortifyBot
 
+![Robotul in piciore](https://github.com/TudorM-Dev/SortifyBot/assets/102438155/07f04879-3bd7-46ad-bb07-666634a87bbf)
 ![image](https://github.com/TudorM-Dev/SortifyBot/assets/102438155/ee24b628-f5a1-4ab8-aba0-780bb9a3be42)
 
 Informatii generale
